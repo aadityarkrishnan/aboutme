@@ -15,7 +15,7 @@ function AboutCard() {
             My skills span a wide range of technologies, including Python, Django, React, MySQL, PostgreSQL, Git, MongoDB, and AWS.
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
+            Apart from coding, some other activities that I love to do!!
           </p>
           <ul>
             <li className="about-activity">
