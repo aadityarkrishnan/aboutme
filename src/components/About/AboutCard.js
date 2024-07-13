@@ -10,9 +10,9 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Aaditya R Krishnan </span>
             hailing from <span className="purple"> Alappuzha, India.</span>
-            <br />I am an experienced Software Developer with a track record of 6+ years in developing robust web applications and ensuring cloud security. 
+            <br />I am an experienced Software Developer with a track record of 7+ years in developing robust web applications and ensuring cloud security. 
             <br />
-            My skills span a wide range of technologies, including Python, Django, React, MySQL, PostgreSQL, Git, and AWS.
+            My skills span a wide range of technologies, including Python, Django, React, MySQL, PostgreSQL, Git, MongoDB, and AWS.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
